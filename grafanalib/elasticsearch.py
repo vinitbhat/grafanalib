@@ -16,6 +16,8 @@ class CountMetricAgg(object):
 
     https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-metrics-valuecount-aggregation.html
 
+\\
+
     It's the default aggregator for elasticsearch queries.
     :param hide: show/hide the metric in the final panel display
     :param id: id of the metric
